@@ -15,6 +15,7 @@ for your convenience::
 
 zh = eeem, eeet, eemt, eett, emmm, emmt, mmmt, mmtt,
 zz = eeee, eemm, mmmm,
+hpp4l = eeee, mmmm, eemm, eeem, emmm
 zgg = eegg, mmgg
 llt = emt, mmt, eet, mmm, emm
 zg = mmg,eeg
@@ -246,6 +247,7 @@ if options.rerunFSA:
 _FINAL_STATE_GROUPS = {
     'zh': 'eeem, eeet, eemt, eett, emmm, emmt, mmmt, mmtt',
     'zz': 'eeee, eemm, mmmm',
+    'hpp4l': 'eeee, mmmm, eemm, eeem, emmm',
     'zgg': 'eegg, mmgg',
     'llt': 'emt, mmt, eet, mmm, emm, mm, ee, em',
     'zg': 'mmg, eeg',
